@@ -30,4 +30,4 @@ calculate their scores, and view a leaderboard.
 - Allow multiple players to compete
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
