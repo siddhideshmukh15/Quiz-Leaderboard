@@ -37,4 +37,4 @@ A beginner-friendly Python quiz game where multiple players can participate, ans
 - Display the top three players
 
 ## Author
-Siddhi Deshmukh
+**Siddhi Deshmukh**
