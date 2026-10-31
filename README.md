@@ -1,33 +1,40 @@
+
 # Quiz Leaderboard
 
 ## Description
-A simple Python-based quiz game that allows players to answer questions, 
-calculate their scores, and view a leaderboard.
+A beginner-friendly Python quiz game where multiple players can participate, answer questions, earn points, and compete for the top position on the leaderboard.
 
 ## Features
-- Enter player name
-- Answer quiz questions
+- Enter player names
+- Play a quiz with multiple questions
+- Get instant feedback on answers
 - Calculate scores automatically
-- View leaderboard
-- Display players in descending order of scores
+- View the leaderboard
+- Display the top scorer
+- Rank players by their scores
+- Handle invalid menu choices
 
 ## Technologies Used
 - Python 3
+- VS Code
 
 ## Concepts Learned
+- Variables and data types
 - Lists and dictionaries
-- For loops and while loops
+- For and while loops
 - If-else conditions
 - User input
-- Dictionary methods
-- List append() and sort()
+- String methods (`strip()` and `lower()`)
+- List methods (`append()` and `sort()`)
 - Lambda functions
-- enumerate()
+- `enumerate()` and `max()`
 
 ## Future Improvements
-- Add more quiz questions
-- Save scores permanently in a file
-- Allow multiple players to compete
+- Save scores permanently using file handling
+- Add more quiz categories
+- Introduce difficulty levels
+- Add a timer for each question
+- Display the top three players
 
 ## Author
 **Siddhi Deshmukh**
